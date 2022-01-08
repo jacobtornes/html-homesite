@@ -1,1 +1,1 @@
-# HTML basics prac.
+# Practising HTML basics.
