@@ -1,2 +1,2 @@
-# Practising HTML basics.
+# HTML-homesite
 Practising HTML basics.
